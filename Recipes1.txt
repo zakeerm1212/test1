@@ -1,6 +1,6 @@
-
-Collections are used to store group of eleements or
-
+what is collections ?
+Collections are used to store group of eleements 
+ORR
 It is an object with set of other objects
 
 thank you
