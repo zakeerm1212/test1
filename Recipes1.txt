@@ -1,0 +1,6 @@
+
+Collections are used to store group of eleements or
+
+It is an object with set of other objects
+
+thank you
